@@ -1,0 +1,3 @@
+工程当中，
+systemtimeset为兼容全志H3,android4.4的系统应用配置，实现收到应用层广播之后在后台service里获取网络时间，并修改更新系统时间；
+testsystemtimset为测试systemtimeset运行情况的工程（给其发送广播，并接受其完成设置之后的广播）

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModifySystemTIme.iml" filepath="$PROJECT_DIR$/ModifySystemTIme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/systemtimeset/systemtimeset.iml" filepath="$PROJECT_DIR$/systemtimeset/systemtimeset.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsystemtimeset/testsystemtimeset.iml" filepath="$PROJECT_DIR$/testsystemtimeset/testsystemtimeset.iml" />
     </modules>
